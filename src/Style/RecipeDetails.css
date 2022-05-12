@@ -1,0 +1,53 @@
+.recipeImg {
+  width: 300px;
+}
+
+.icons {
+  background: none;
+}
+
+.recomendation-List {
+  display: flex;
+  flex-flow: row nowrap;
+  margin: 10px 0 30px;
+  max-width: 300px;
+  overflow-x: scroll;
+}
+
+.card-drink {
+  display: flex;
+  flex-direction: column;
+  height: 200px;
+  margin: 5px;
+  width: 40vw;
+}
+
+/* .card-drink > span {
+  overflow: hidden;
+  padding-bottom: 15px;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.card-drink > img {
+  border-radius: 0.6rem;
+  height: 250px;
+  object-fit: fill;
+  overflow: hidden;
+  width: 40vw;
+} */
+
+.video {
+  width: 200px;
+}
+
+.button {
+  bottom: 0;
+  margin-left: 0;
+  position: fixed;
+  right: 0;
+}
+
+.page-details {
+  height: 100%;
+}

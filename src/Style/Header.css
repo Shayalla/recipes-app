@@ -1,0 +1,34 @@
+header {
+  background-color: white;
+  height: 50px;
+  position: absolute;
+  right: 0;
+  top: 0;
+  width: 100vw;
+}
+
+.headerInformation {
+  align-items: center;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.headerInformation button {
+  background-color: white;
+  border: none;
+}
+
+.search {
+  align-items: center;
+  background-color: white;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.optionsSearch {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+}

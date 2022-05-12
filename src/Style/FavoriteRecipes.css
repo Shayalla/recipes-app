@@ -1,0 +1,28 @@
+.page-favorite-recipes {
+  display: flex;
+  flex-direction: column;
+}
+
+.container-favorite-recipes {
+  padding-top: 390px;
+}
+
+.container-favorite-recipes img {
+  height: 50px;
+  width: 50px;
+}
+
+.box-favorite-recipes {
+  padding-top: 15px;
+}
+
+.favorite-recipe {
+  border: 1px solid black;
+  display: flex;
+  margin: 15px;
+}
+
+.btn-icon {
+  height: 30px;
+  width: 30px;
+}
